@@ -3,7 +3,6 @@ export default {
         iconList: null,
         info: null,
         links: null
-
     },
     getters: {
         data: state => {
