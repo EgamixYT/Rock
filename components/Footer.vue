@@ -24,7 +24,7 @@
     </mdb-container>
     <div class="footer-copyright text-center py-3">
       <mdb-container fluid>
-        &copy; 2020 Copyright: <a href="https://www.MDBootstrap.com"> MDBootstrap.com </a>
+        &copy; 2021 Copyright: <a href="GitHub.com"> @Egamix </a>
       </mdb-container>
     </div>
   </mdb-footer>

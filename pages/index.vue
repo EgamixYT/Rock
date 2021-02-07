@@ -6,7 +6,7 @@
 export default {
     layout: 'default',
     components: {
-        Photo: () => import("@/components/Photo.vue"),
+        Photo: () => import("@/components/Photo"),
     },
 }
 </script>

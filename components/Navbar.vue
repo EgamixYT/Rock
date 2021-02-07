@@ -1,13 +1,13 @@
 <template>
   <mdb-navbar color="indigo" dark>
     <mdb-navbar-brand href="https://mdbootstrap.com/">
-      Navbar
+      ClimbingUA
     </mdb-navbar-brand>
     <mdb-navbar-toggler>
       <mdb-navbar-nav>
-        <mdb-nav-item href="#" active>Home</mdb-nav-item>
-        <mdb-nav-item href="#">Features</mdb-nav-item>
-        <mdb-nav-item href="#">Pricing</mdb-nav-item>
+        <mdb-nav-item href="#" active>Домой</mdb-nav-item>
+        <mdb-nav-item href="#">О скалолазании</mdb-nav-item>
+        <mdb-nav-item href="#">О нас</mdb-nav-item>
         <mdb-dropdown tag="li" class="nav-item">
           <mdb-dropdown-toggle tag="a" navLink color="indigo" slot="toggle" waves-fixed>Dropdown</mdb-dropdown-toggle>
           <mdb-dropdown-menu>
