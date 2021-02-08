@@ -10,12 +10,14 @@
 import Navbar from '@/components/Navbar/'
 import Card from '@/components/Card'
 import Footer from '@/components/Footer'
+import Card2 from '@/components Card2.vue';
 
 export default {
   components: {
     Navbar,
     Card,
-    Footer
+    Footer,
+    Card2
   }
 }
 </script>

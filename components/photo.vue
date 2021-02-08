@@ -35,7 +35,7 @@
         factor="1.0"
         height="600"
       />
-      <mdb-mask overlay="blue-slight" flexCenter>
+      <mdb-mask dark overlay="blue-grey-light" flexCenter>
         <mdb-row
           class="mb-5 pb-4 text-center"
           overlay="elegant-color-dark"
@@ -44,7 +44,7 @@
           <mdb-col md="12" xl="12" class="mx-auto">
             <h1
               class="justify-content: center baseline"
-              overlay="elegant-color-dark"
+              overlay="blue-grey-slight"
             >
               <p>/</p>
               Присоединяйся к нам и живи драйвово!
@@ -66,14 +66,13 @@
 <script>
 import {
   mdbParallax,
-  mdbContainer,
   mdbMask,
   mdbRow,
   mdbCol,
   mdbBtn,
   mdbContainer,
-  mdbRow,
-  mdbCol,
+ 
+  
 } from "mdbvue";
 
 export default {
@@ -83,7 +82,7 @@ export default {
     mdbContainer,
     mdbMask,
     mdbRow,
-    mdbCol,
+    mdbCol
   },
   data() {
     return {
