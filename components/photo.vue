@@ -12,18 +12,16 @@
 
       <mdb-mask dark overlay="blue-grey-light" flexCenter>
         <mdb-row class="mb-5 pb-5 text-center">
-          <mdb-col md="12" xl="12" class="mx-auto">
-            <h1 class="justify-content: center baseline">
-              <p>/</p>
-              Climbing and Mounteneering in Odessa
-              <p></p>
-              <p>Folow Us in:</p>
+          <h1 class="justify-content: center baseline">
+
+              <p class="mt-5 pt-1 mb-4">Folow Us in:</p>
             </h1>
-            <mdb-btn class="btn-fb" icon="facebook-f" fab>Facebook</mdb-btn>
+          <mdb-col md="12" xl="12" class="mx-auto ">
+            
+        
+            <mdb-btn class="btn-fb" icon="facebook-f" href="facebook.com" fab>Facebook</mdb-btn>
             <mdb-btn class="btn-tw" icon="twitter" fab>Twitter</mdb-btn>
-            <mdb-btn class="btn-gplus" icon="google-plus-g" fab
-              >Google +</mdb-btn
-            >
+            <mdb-btn class="btn-gplus" icon="google-plus-g" href="google.com" fab> Google +</mdb-btn>
             <mdb-btn class="btn-li" icon="linkedin-in" fab>Linkedin</mdb-btn>
             <mdb-btn class="btn-ins" icon="instagram" fab>Instagram</mdb-btn>
           </mdb-col>
@@ -36,22 +34,7 @@
         height="600"
       />
       <mdb-mask dark overlay="blue-grey-light" flexCenter>
-        <mdb-row
-          class="mb-5 pb-4 text-center"
-          overlay="elegant-color-dark"
-          flexCenter
-        >
-          <mdb-col md="12" xl="12" class="mx-auto">
-            <h1
-              class="justify-content: center baseline"
-              overlay="blue-grey-slight"
-            >
-              <p>/</p>
-              Присоединяйся к нам и живи драйвово!
-              <p>Развивай мышление и силу</p>
-            </h1>
-          </mdb-col>
-        </mdb-row>
+
       </mdb-mask>
       <mdb-parallax
         src="https://images.unsplash.com/photo-1574002493833-92a3c9e6580f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
@@ -59,7 +42,7 @@
         height="600"
       />
     </main>
-    <!-- Main layout -->
+   
   </div>
 </template>
 

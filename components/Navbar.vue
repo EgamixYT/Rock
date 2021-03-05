@@ -11,9 +11,9 @@
         <mdb-dropdown tag="li" class="nav-item">
           <mdb-dropdown-toggle tag="a" navLink color="unique-color" slot="toggle" waves-fixed >Где полазить?</mdb-dropdown-toggle>
           <mdb-dropdown-menu>
-            <mdb-dropdown-item>Боулдер залы</mdb-dropdown-item>
-            <mdb-dropdown-item>Скалолазные районы</mdb-dropdown-item>
-            <mdb-dropdown-item>Лазание на трудность</mdb-dropdown-item>
+            <mdb-dropdown-item href="/boulder">Боулдер залы</mdb-dropdown-item>
+            <mdb-dropdown-item href="/sector">Скалолазные районы</mdb-dropdown-item>
+            <mdb-dropdown-item href="/urban">Лазание на трудность</mdb-dropdown-item>
           </mdb-dropdown-menu>
         </mdb-dropdown>
       </mdb-navbar-nav>
